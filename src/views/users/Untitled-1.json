@@ -1,0 +1,51 @@
+{
+  "data": {
+    "total": 13,
+    "pagenum": 1,
+    "users": [{
+      "id": 500,
+      "role_name": "超级管理员",
+      "username": "admin",
+      "create_time": 1486720211,
+      "mobile": null,
+      "email": null,
+      "mg_state": true
+    }, {
+      "id": 1221,
+      "role_name": "超级管理员",
+      "username": "yangfushan",
+      "create_time": 1603940749,
+      "mobile": "13256478945",
+      "email": "",
+      "mg_state": false
+    }, {
+      "id": 1222,
+      "role_name": "超级管理员",
+      "username": "松紧布",
+      "create_time": 1603940782,
+      "mobile": "177",
+      "email": "1234@qq.com",
+      "mg_state": false
+    }, {
+      "id": 1224,
+      "role_name": "超级管理员",
+      "username": "ertgerg",
+      "create_time": 1603942114,
+      "mobile": "adfsdfdasdf",
+      "email": "sergsre@163.com",
+      "mg_state": false
+    }, {
+      "id": 1225,
+      "role_name": "超级管理员",
+      "username": "ertgergasedfsd",
+      "create_time": 1603942119,
+      "mobile": "adfsdfdasdf",
+      "email": "sergsre@163.com",
+      "mg_state": false
+    }]
+  },
+  "meta": {
+    "msg": "获取管理员列表成功",
+    "status": 200
+  }
+}
